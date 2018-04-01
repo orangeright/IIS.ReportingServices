@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace ReportingServices
+namespace IIS.ReportingServices
 {
     public class BundleConfig
     {

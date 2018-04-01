@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace ReportingServices
+namespace IIS.ReportingServices
 {
     public class FilterConfig
     {

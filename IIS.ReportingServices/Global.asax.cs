@@ -5,8 +5,9 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
+using IIS.Utilities;
 
-namespace ReportingServices
+namespace IIS.ReportingServices
 {
     public class MvcApplication : System.Web.HttpApplication
     {

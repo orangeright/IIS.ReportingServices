@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ReportingServices;
-using ReportingServices.Controllers;
+using IIS.ReportingServices;
+using IIS.ReportingServices.Controllers;
 
 namespace ReportingServices.Tests.Controllers
 {

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般的情報は、以下の属性セットによって
 // 制御されます。アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更します。
-[assembly: AssemblyTitle("ReportingServices")]
+[assembly: AssemblyTitle("IIS.ReportingServices")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ReportingServices")]
+[assembly: AssemblyProduct("IIS.ReportingServices")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

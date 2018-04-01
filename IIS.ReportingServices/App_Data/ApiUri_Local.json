@@ -1,0 +1,6 @@
+{
+  "Select": "http://localhost/pleasanter/api_items/{id}/get",
+  "Create": "http://localhost/pleasanter/api_items/{id}/create",
+  "Delete": "http://localhost/pleasanter/api_items/{id}/delete",
+  "Update": "http://localhost/pleasanter/api_items/{id}/update"
+}
